@@ -1,0 +1,10 @@
+complex_7w           RMSD =    1.125 (200 atoms), Haddock-score: -69.74394
+complex_14w          RMSD =    1.126 (200 atoms), Haddock-score: -69.638852
+complex_18w          RMSD =    1.111 (200 atoms), Haddock-score: -78.17605
+complex_26w          RMSD =    1.154 (200 atoms), Haddock-score: -69.40866
+complex_29w          RMSD =    1.162 (200 atoms), Haddock-score: -67.13493
+complex_33w          RMSD =    1.113 (200 atoms), Haddock-score: -68.08914
+complex_35w          RMSD =    1.130 (200 atoms), Haddock-score: -69.7889
+complex_37w          RMSD =    1.136 (200 atoms), Haddock-score: -67.92142
+complex_130w         RMSD =    1.110 (200 atoms), Haddock-score: -66.73682
+complex_375w         RMSD =    1.162 (200 atoms), Haddock-score: -71.85159
