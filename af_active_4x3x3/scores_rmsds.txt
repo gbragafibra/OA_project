@@ -1,12 +1,12 @@
-Complex		HaddockScore
-complex_136w.pdb"  { -68.41225 }
-complex_188w.pdb"  { -67.15316 }
-complex_117w.pdb"  { -64.95146 }
-complex_139w.pdb"  { -61.25165 }
-complex_179w.pdb"  { -61.78958 }
-complex_120w.pdb"  { -61.74096 }
-complex_195w.pdb"  { -60.96377 }
-complex_191w.pdb"  { -50.22031 }
-complex_197w.pdb"  { -50.04512 }
-complex_189w.pdb"  { -48.90002 }
+Complex		HaddockScore RMSD
+complex_136w.pdb"  { -68.41225 } 1.640
+complex_188w.pdb"  { -67.15316 } 1.449
+complex_117w.pdb"  { -64.95146 } 2.022
+complex_139w.pdb"  { -61.25165 } 1.748
+complex_179w.pdb"  { -61.78958 } 1.735
+complex_120w.pdb"  { -61.74096 } 3.155
+complex_195w.pdb"  { -60.96377 } 3.114 
+complex_191w.pdb"  { -50.22031 } 2.437
+complex_197w.pdb"  { -50.04512 } 2.476
+complex_189w.pdb"  { -48.90002 } 2.478
 

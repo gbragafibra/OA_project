@@ -1,11 +1,11 @@
-#struc haddock-score
-complex_136w.pdb -68.41225
-complex_188w.pdb -67.15316
-complex_117w.pdb -64.95146
-complex_179w.pdb -61.78958
-complex_120w.pdb -61.74096
-complex_139w.pdb -61.25165
-complex_195w.pdb -60.96377
-complex_110w.pdb -60.33262
-complex_80w.pdb -57.92154
-complex_158w.pdb -55.95033
+#struc haddock-score 	RMSD
+complex_136w.pdb -68.41225 1.640
+complex_188w.pdb -67.15316 1.449
+complex_117w.pdb -64.95146 2.022
+complex_179w.pdb -61.78958 3.114
+complex_120w.pdb -61.74096 1.735
+complex_139w.pdb -61.25165 1.748
+complex_195w.pdb -60.96377 3.155
+complex_110w.pdb -60.33262 1.374
+complex_80w.pdb -57.92154 3.212
+complex_158w.pdb -55.95033 1.618
