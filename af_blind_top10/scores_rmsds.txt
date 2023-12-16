@@ -1,0 +1,11 @@
+#struc haddock-score
+complex_47w.pdb -81.1429
+complex_9w.pdb -67.9463
+complex_34w.pdb -67.87203
+complex_107w.pdb -63.31635
+complex_59w.pdb -62.82627
+complex_102w.pdb -61.9967
+complex_44w.pdb -61.456
+complex_14w.pdb -60.64435
+complex_54w.pdb -60.59318
+complex_209w.pdb -60.4557
