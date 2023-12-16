@@ -1,0 +1,12 @@
+Complex		HaddockScore
+complex_41w.pdb"  { -60.06292 }
+complex_5w.pdb"  { -55.36125 }
+complex_46w.pdb"  { -54.5812 }
+complex_29w.pdb"  { -46.75258 }
+complex_358w.pdb"  { -49.92429 }
+complex_88w.pdb"  { -47.90043 }
+complex_94w.pdb"  { -45.27803 }
+complex_71w.pdb"  { -46.61061 }
+complex_399w.pdb"  { -46.46177 }
+complex_377w.pdb"  { -45.0814 }
+
