@@ -1,0 +1,11 @@
+#struc haddock-score	RMSD
+complex_59w.pdb -80.7941 18.459
+complex_9w.pdb -76.46769 1.330
+complex_87w.pdb -74.16783 19.564
+complex_33w.pdb -71.74134 1.343
+complex_17w.pdb -69.17756 1.341
+complex_160w.pdb -68.346942 14.721
+complex_19w.pdb -68.17659 1.339
+complex_163w.pdb -67.88726 14.882
+complex_18w.pdb -67.79563 1.354
+complex_40w.pdb -67.62365 1.362
