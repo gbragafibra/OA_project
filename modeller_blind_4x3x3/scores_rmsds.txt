@@ -1,12 +1,12 @@
 Complex		HaddockScore RMSD
-complex_9w.pdb"  { -76.46769 } 1.330
-complex_17w.pdb"  { -69.17756 } 1.341
-complex_19w.pdb"  { -68.17659 } 1.339
-complex_18w.pdb"  { -67.79563 } 1.354
+complex_9w.pdb"  { -76.46769 } 7.575
+complex_17w.pdb"  { -69.17756 } 7.520
+complex_19w.pdb"  { -68.17659 } 7.487
+complex_18w.pdb"  { -67.79563 } 7.569
 complex_189w.pdb"  { -53.99066 } 5.179
 complex_235w.pdb"  { -53.65116 } 5.198
 complex_193w.pdb"  { -52.77993 } 5.165
-complex_367w.pdb"  { -54.65845 } 1.036
-complex_366w.pdb"  { -54.6575 } 1.005
+complex_367w.pdb"  { -54.65845 } 6.723
+complex_366w.pdb"  { -54.6575 } 6.859
 complex_379w.pdb"  { -49.31239 } 4.577
 
